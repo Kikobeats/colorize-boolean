@@ -5,20 +5,26 @@
   "version": "1.0.0",
   "main": "./index.js",
   "author": {
-    "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
   "repository": "Kikobeats/colorize-boolean",
   "bugs": {
     "url": "https://github.com/Kikobeats/colorize-boolean/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "boolean",
+    "cli",
+    "colorize",
+    "output",
+    "terminal"
+  ],
   "dependencies": {
-    "coffee-script": "^1.9.3",
     "chalk": "^1.1.0"
   },
   "devDependencies": {
+    "coffee-script": "*",
     "mocha": "*",
     "should": "*"
   },
