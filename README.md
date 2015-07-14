@@ -9,7 +9,6 @@
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/colorize-boolean.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/colorize-boolean/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/colorize-boolean)
-[![Coverage Status](http://img.shields.io/coveralls/Kikobeats/colorize-boolean/master.svg?style=flat-square)](https://coveralls.io/r/Kikobeats/colorize-boolean?branch=master)
 [![Dependency status](http://img.shields.io/david/Kikobeats/colorize-boolean.svg?style=flat-square)](https://david-dm.org/Kikobeats/colorize-boolean)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/colorize-boolean.svg?style=flat-square)](https://david-dm.org/Kikobeats/colorize-boolean#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/colorize-boolean.svg?style=flat-square)](https://www.npmjs.org/package/colorize-boolean)
