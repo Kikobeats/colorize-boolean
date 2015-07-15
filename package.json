@@ -2,7 +2,7 @@
   "name": "colorize-boolean",
   "description": "Output a boolean with color. Pretty sweet for your terminal logs!",
   "homepage": "https://github.com/Kikobeats/colorize-boolean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
