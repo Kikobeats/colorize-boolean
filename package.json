@@ -21,7 +21,7 @@
     "terminal"
   ],
   "dependencies": {
-    "chalk": "^2.0.1"
+    "chalk": "^2.1.0"
   },
   "devDependencies": {
     "coffee-script": "*",
