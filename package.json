@@ -21,12 +21,12 @@
     "terminal"
   ],
   "dependencies": {
-    "chalk": "^2.0.1"
+    "chalk": "latest"
   },
   "devDependencies": {
-    "coffee-script": "*",
-    "mocha": "*",
-    "should": "*"
+    "coffee-script": "latest",
+    "mocha": "latest",
+    "should": "latest"
   },
   "engines": {
     "node": ">= 0.10.0",
