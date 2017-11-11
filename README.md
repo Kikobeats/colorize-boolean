@@ -1,5 +1,7 @@
 # colorize-boolean
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/colorize-boolean.svg)](https://greenkeeper.io/)
+
 <h1 align="center">
   <br>
   <img src="http://i.imgur.com/nxFJv4D.png" alt="colorize-boolean">
